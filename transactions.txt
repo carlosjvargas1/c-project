@@ -1,0 +1,3 @@
+firstName: asddasddasdasd, lastName: asdasd, age: 23, nationality: asdasd, price: 23, carOption: 1, days: 23, total: 12098
+firstName: asdasd, lastName: asdas, age: 23, nationality: sdasd, price: 23, carOption: 2, days: 4, total: 3445
+
